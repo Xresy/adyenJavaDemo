@@ -24,7 +24,7 @@ public class Application {
     private static final Gson gson = new Gson();
 
     public static void main(String[] args) {
-        port(8080);
+        port(80);
         staticFiles.location("/static");
         Properties prop = readConfigFile();
         String clientKey = prop.getProperty("clientKey");
@@ -32,7 +32,7 @@ public class Application {
 
         // Routes
 
-        get("/", (req, res) -> {
+        get("adyen/", (req, res) -> {
             Map<String, Object> context = new HashMap<>();
             return RenderUtil.render(context, "templates/home.html");
         });
