@@ -24,7 +24,7 @@ public class Application {
     private static final Gson gson = new Gson();
 
     public static void main(String[] args) {
-        port(80);
+        // port(80);
         staticFiles.location("/static");
         Properties prop = readConfigFile();
         String clientKey = prop.getProperty("clientKey");
