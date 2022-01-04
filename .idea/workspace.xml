@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0c63791-d9b9-4d87-80f9-07c02031c703" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.1/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.1/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.1/dependencies-accessors/dependencies-accessors.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.1/dependencies-accessors/dependencies-accessors.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.1/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.3.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.3.1/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-    </list>
+    <list default="true" id="c0c63791-d9b9-4d87-80f9-07c02031c703" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -127,5 +121,21 @@
       <screen x="-1920" y="-180" width="1920" height="1080" />
     </state>
     <state x="-1223" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog/0.25.1440.875/-1920.-180.1920.1080@-1920.-180.1920.1080" timestamp="1641267719740" />
+    <state width="1038" height="305" key="GridCell.Tab.0.bottom" timestamp="1641268510631">
+      <screen x="-1080" y="-180" width="1080" height="1920" />
+    </state>
+    <state width="1038" height="305" key="GridCell.Tab.0.bottom/0.25.1440.875/-1080.-180.1080.1920@-1080.-180.1080.1920" timestamp="1641268510631" />
+    <state width="1038" height="305" key="GridCell.Tab.0.center" timestamp="1641268510631">
+      <screen x="-1080" y="-180" width="1080" height="1920" />
+    </state>
+    <state width="1038" height="305" key="GridCell.Tab.0.center/0.25.1440.875/-1080.-180.1080.1920@-1080.-180.1080.1920" timestamp="1641268510631" />
+    <state width="1038" height="305" key="GridCell.Tab.0.left" timestamp="1641268510630">
+      <screen x="-1080" y="-180" width="1080" height="1920" />
+    </state>
+    <state width="1038" height="305" key="GridCell.Tab.0.left/0.25.1440.875/-1080.-180.1080.1920@-1080.-180.1080.1920" timestamp="1641268510630" />
+    <state width="1038" height="305" key="GridCell.Tab.0.right" timestamp="1641268510631">
+      <screen x="-1080" y="-180" width="1080" height="1920" />
+    </state>
+    <state width="1038" height="305" key="GridCell.Tab.0.right/0.25.1440.875/-1080.-180.1080.1920@-1080.-180.1080.1920" timestamp="1641268510631" />
   </component>
 </project>
