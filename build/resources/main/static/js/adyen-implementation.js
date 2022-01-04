@@ -1,6 +1,3 @@
-import AdyenCheckout from '@adyen/adyen-web';
-import '@adyen/adyen-web/dist/adyen.css';
-
 const clientKey = document.getElementById("client-key").innerHTML;
 // Used to finalize a checkout call in case of redirect
 const urlParams = new URLSearchParams(window.location.search);
