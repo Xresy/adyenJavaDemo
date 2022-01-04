@@ -12,7 +12,7 @@ async function startCheckout() {
   try {
     const checkoutSessionResponse = await callServer("/api/sessions?type=" + type);
     const checkout = await createAdyenCheckout(checkoutSessionResponse);
-    checkout.create(type).mount(document.getElementById("component"));
+    checkout.create('paywithgoogle').mount(document.getElementById("component"));
 
   } catch (error) {
     console.error(error);
