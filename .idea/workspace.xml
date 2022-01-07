@@ -3,8 +3,32 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0c63791-d9b9-4d87-80f9-07c02031c703" name="Default Changelist" comment="" />
+    <list default="true" id="c0c63791-d9b9-4d87-80f9-07c02031c703" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/checkout/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/checkout/Application.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -112,6 +136,17 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="-1496" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1641267799380">
       <screen x="-1920" y="-180" width="1920" height="1080" />
@@ -121,21 +156,46 @@
       <screen x="-1920" y="-180" width="1920" height="1080" />
     </state>
     <state x="-1223" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog/0.25.1440.875/-1920.-180.1920.1080@-1920.-180.1920.1080" timestamp="1641267719740" />
-    <state width="1038" height="305" key="GridCell.Tab.0.bottom" timestamp="1641268510631">
-      <screen x="-1080" y="-180" width="1080" height="1920" />
+    <state width="1398" height="121" key="GridCell.Tab.0.bottom" timestamp="1641523006509">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="121" key="GridCell.Tab.0.bottom/0.0.1440.900/-1080.-155.1080.1895@0.0.1440.900" timestamp="1641523006509" />
     <state width="1038" height="305" key="GridCell.Tab.0.bottom/0.25.1440.875/-1080.-180.1080.1920@-1080.-180.1080.1920" timestamp="1641268510631" />
-    <state width="1038" height="305" key="GridCell.Tab.0.center" timestamp="1641268510631">
-      <screen x="-1080" y="-180" width="1080" height="1920" />
+    <state width="1398" height="121" key="GridCell.Tab.0.center" timestamp="1641523006509">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="121" key="GridCell.Tab.0.center/0.0.1440.900/-1080.-155.1080.1895@0.0.1440.900" timestamp="1641523006509" />
     <state width="1038" height="305" key="GridCell.Tab.0.center/0.25.1440.875/-1080.-180.1080.1920@-1080.-180.1080.1920" timestamp="1641268510631" />
-    <state width="1038" height="305" key="GridCell.Tab.0.left" timestamp="1641268510630">
-      <screen x="-1080" y="-180" width="1080" height="1920" />
+    <state width="1398" height="121" key="GridCell.Tab.0.left" timestamp="1641523006508">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="121" key="GridCell.Tab.0.left/0.0.1440.900/-1080.-155.1080.1895@0.0.1440.900" timestamp="1641523006508" />
     <state width="1038" height="305" key="GridCell.Tab.0.left/0.25.1440.875/-1080.-180.1080.1920@-1080.-180.1080.1920" timestamp="1641268510630" />
-    <state width="1038" height="305" key="GridCell.Tab.0.right" timestamp="1641268510631">
-      <screen x="-1080" y="-180" width="1080" height="1920" />
+    <state width="1398" height="121" key="GridCell.Tab.0.right" timestamp="1641523006509">
+      <screen x="0" y="0" width="1440" height="900" />
     </state>
+    <state width="1398" height="121" key="GridCell.Tab.0.right/0.0.1440.900/-1080.-155.1080.1895@0.0.1440.900" timestamp="1641523006509" />
     <state width="1038" height="305" key="GridCell.Tab.0.right/0.25.1440.875/-1080.-180.1080.1920@-1080.-180.1080.1920" timestamp="1641268510631" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1641523006497">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900/-1080.-155.1080.1895@0.0.1440.900" timestamp="1641523006497" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1641523006496">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900/-1080.-155.1080.1895@0.0.1440.900" timestamp="1641523006496" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1641523006496">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900/-1080.-155.1080.1895@0.0.1440.900" timestamp="1641523006496" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1641523006496">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900/-1080.-155.1080.1895@0.0.1440.900" timestamp="1641523006496" />
+    <state x="421" y="205" width="597" height="490" key="find.popup" timestamp="1641372568324">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="421" y="205" width="597" height="490" key="find.popup/0.0.1440.900/-1080.-155.1080.1895@0.0.1440.900" timestamp="1641372568324" />
+    <state x="421" y="205" width="597" height="490" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1641357592513" />
   </component>
 </project>

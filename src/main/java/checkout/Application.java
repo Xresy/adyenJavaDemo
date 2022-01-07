@@ -7,10 +7,10 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.Properties;
 import com.adyen.model.checkout.*;
+import com.adyen.service.exception.ApiException;
 import com.google.gson.Gson;
-
 import view.RenderUtil;
-
+import javax.xml.datatype.DatatypeConfigurationException;
 import static spark.Spark.get;
 import static spark.Spark.path;
 import static spark.Spark.port;
@@ -23,7 +23,7 @@ public class Application {
     private static final String CONFIG_FILE = "config.properties";
     private static final Gson gson = new Gson();
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException, ApiException, DatatypeConfigurationException {
         port(8080);
         staticFiles.location("/static");
         Properties prop = readConfigFile();
